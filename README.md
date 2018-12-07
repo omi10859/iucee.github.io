@@ -1,5 +1,5 @@
 # IUCEE: Indo-US Collaboration for Engineering Education 
-- The following repo contains the source code for the official website of Amity Linux Assistance Sapience.
+- The following repo contains the source code for the official website of IUCEE: Indo-US Collaboration for Engineering Education Club.
 - The website is hosted on gh-pages itself.
 
 ## Contribute 
