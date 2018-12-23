@@ -8,6 +8,8 @@
 
 ## Guidelines 
 - Make sure your PR contains `one` logical change only!
+- In case there are multiple commits in your PR squash them into one. Ref :
+- `https://makandracards.com/makandra/527-squash-several-git-commits-into-a-single-commit`
 - Make sure you update your REMOTE ORIGIN in case you have forked this repo : 
 - `https://help.github.com/articles/syncing-a-fork/`
 - Once you update the forked repo make sure you `rebase` the changes and then open the PR. 
@@ -17,3 +19,4 @@
 
 ## Contributors 
 - @omi10859
+- @vips28
